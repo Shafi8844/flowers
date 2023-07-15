@@ -1,0 +1,228 @@
+.banner{
+    background-color: rgba(229, 84, 115, 0.10);
+}
+.banner-body{
+    display: flex;
+    align-items: center;
+    padding: 50px 30px 50px 50px;
+    margin-bottom: 100px;
+}
+h1{
+    font-family: 'Playfair Display', serif;
+    font-size: 80px;
+    font-weight: 800px;
+}
+.description{
+    font-family: 'Jost', sans-serif;
+    font-size: 18px;
+    color: grey;
+}
+.button{
+    background-color: #E55473;
+    width: 150px;
+    height: 60px;
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    border: 10px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 200px;
+}
+.body-title{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    font-weight: 400px;
+}
+.body-description{
+    text-align: center;
+    font-family: 'Jost', sans-serif;
+    color: grey;
+}
+.product{
+    display: flex;
+    justify-content:space-around;
+    margin-top: 50px;
+}
+.flowers1{
+    background-color: #A7216226;
+    border: #E55473;
+    border-radius: 300px 300px 0px 0px;
+    padding: 100px 50px 0px 50px;
+}
+.flowers2{
+    background-color: #0597A026;
+    border-radius: 300px 300px 0px 0px;
+    padding: 100px 50px 0px 50px;
+}
+.flowers3{
+    background-color: #477D1126;
+    border-radius: 300px 300px 0px 0px;
+    padding: 100px 50px 0px 50px;
+}
+.name-of-flowers{
+    font-family: 'Varela Round', sans-serif;
+    display: flex;
+    justify-content: space-around;
+    font-size: 16px;
+    font-weight: 500px;
+    font-style: initial;
+    text-decoration-line: underline;
+}
+.service-logo{
+    background-color: #2727270D;
+    width: 800px;
+    height: 250px;;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 30%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.service-img-1{
+    margin-left: 50px;
+}
+#photo-1{
+    margin-left: 50px;
+}
+#service-title-1{
+    margin-left: -30px;
+    font-family: 'Jost', sans-serif;
+    color: grey;
+    font-size: 17px;
+    font-weight:700
+}
+#service-title-2{
+    margin-left: -50px;
+    font-family: 'Jost', sans-serif;
+    color: grey;
+    font-size: 17px;
+    font-weight:700
+}
+#service-title-3{
+    margin-left: -10px;
+    font-family: 'Jost', sans-serif;
+    color: grey;
+    font-size: 17px;
+    font-weight:700
+}
+.deal{
+    display: flex;
+    align-items: center;
+    background-color: rgba(229, 84, 115, 0.10);
+    justify-content: center;
+}
+.deal-title{
+    font-family: 'Frank Ruhl Libre', serif;
+    font-size: 50px;
+}
+.deal-img{
+    margin-left: 50px;
+}
+.sign-up-button{
+    background-color: #E55473;
+    width: 150px;
+    height: 60px;
+    font-family: 'Jost', sans-serif;
+    font-size: 20px;
+    border: 10px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 200px;
+    margin-left: 250px;
+}
+.social-title{
+    font-size: 40px;
+    font-family: 'Jost', sans-serif;
+    font-weight:900px;
+    text-align: center;
+}
+.social-descripyion{
+    font-family: 'Jost', sans-serif;
+    color: #27272799;
+    text-align: center;
+}
+.social-image{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 50px;
+    width: 1440px;
+    height: 449px;
+    margin-left: 10%;
+}
+.subscription{
+    background-image:url(images/Rectangle\ 9.png);
+    width: 1440px;
+    height: 449px;
+    margin-left: 10%;
+}
+.sub-title{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-family: 'Jost', sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 8%;
+}
+.sub-des{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    font-family: 'Jost', sans-serif;
+    color: #27272799;
+}
+.subscibe-section{
+    width: 500px;
+    height: 60px;
+    border-radius: 8px;
+    background: #FFF;
+    margin-left: 30%;
+    font-family: 'Jost', sans-serif;
+    color: grey;
+    font-size: 16px;
+    font-weight: 100px;
+}
+.subs-button{
+    background-color: #E55473;
+    width: 150px;
+    height: 60px;
+    font-family: 'Jost', sans-serif;
+    font-size: 20px;
+    border: 10px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 200px;
+}
+.footer-section{
+    background-color: black;
+    width: 1922px;
+    height: 449px;
+}
+.footer-title{
+    color: white;
+    font-size: 50px;
+    font-weight: 800;
+    font-family: 'Jost', sans-serif;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+span.span-title{
+    color: #E55473;
+}
+.footer-des{
+    color: white;
+    font-family: 'Jost', sans-serif;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bolder;
+}
+.copyright{
+    color: #FFFFFF66;
+    text-align: center;
+    margin-top: 100px;
+    line-height: 40px;
+    font-weight: bolder;
+}
